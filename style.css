@@ -1,0 +1,42 @@
+header{
+    background-color: rgba(184, 135, 11, 0.521);
+}
+.navbar>.navbar-nav>.nav-item>.nav-link:hover{
+    color:chartreuse
+}
+.backpack-cart img{
+    background-color: darkgrey;
+    border-radius: 20px;
+}
+.backpack-cart-footer>.btn:hover{
+    background-color: #27AE60;
+    color: black;
+}
+.banner>.btn:hover{
+    background-color: #0d4b26;
+    color: black;
+}
+.Query{
+    background-image: url(Photos/backgroud-fotter.jfif);
+}
+.color{
+    color: darkgreen;
+}
+h1{
+    color: #0080008f;
+}
+h3, h5{
+    color: blue;
+}
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.highlight{
+    color: blue;
+    font-weight: bold;
+}
+.highlight1{
+    color: chartreuse;
+    font-weight: bold;
+}
+
